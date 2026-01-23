@@ -8,7 +8,7 @@ export default function MainSiteFooter(props) {
   const mainSiteFooterLinks = [
     { text: "About", url: "/about" },
     { text: "Contact", url: "/contact" },
-    { text: "Submit", url: "/submit" },
+    { text: "narek", url: "/submit" },
     { text: "Advertise", url: "/advertise" },
     { text: "Sponsored", url: "/category/sponsored" },
     { text: "Staff", url: "/staff" },
